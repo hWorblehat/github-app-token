@@ -1,0 +1,11 @@
+# Cargo build
+/target
+
+# Default input files (for testing)
+/app-id
+/installation-id
+/*.pem
+
+# Default output files (for testing)
+/.gitconfig
+/.git-credentials
